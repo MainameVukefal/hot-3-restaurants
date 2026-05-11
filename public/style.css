@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+.restaurant-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+}
